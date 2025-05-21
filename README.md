@@ -83,7 +83,7 @@ Each processing element is designed to:
       n (from top)
        |
        v
-  +--------+
+    +--------+
 m ->|        |-> p (to right)
   | |   PE   |
   | |        |
@@ -197,7 +197,7 @@ Example 3: Two consecutive matrix multiplication
 
 ### 1.6.2 Waveforms
 
-![waveform](waveform.png)
+![waveform](results/waveform.png)
 ## 1.7 File structure
 
 Code files:
